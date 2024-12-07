@@ -12,7 +12,7 @@
 
 ### Flowchart for conditional generation
 
-<img src="results/overview.png" alt="Flowchart for conditional generation" width="1000">
+<img src="NEU-FewShot/results/overview.png" alt="Flowchart for conditional generation" width="1000">
 
 ### Three prompt templates
 
